@@ -4,6 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Update on HP 3045 Printer Issues</title>
+<style>
+        .horizontal-links {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+        }
+        .horizontal-links li {
+            margin-right: 20px;
+        }
+        .horizontal-links a {
+            text-decoration: none;
+            color: #007bff;
+        }
+        .horizontal-links a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
     <p>I’ve been having some persistent issues with my HP 3045 printer lately and thought I’d reach out for some advice.<br>
@@ -45,6 +63,15 @@
     
     <p>I hope this helps anyone who might be experiencing similar issues with their HP 3045 printer. If you have any additional tips or have faced similar problems, please share your experiences.<br>
     I’ll keep you updated if any new issues arise or if there are further developments.</p>
+<br>
+    <ul class="horizontal-links">
+        <li><a href="https://netcrunchext.github.io/netcrunchext/" target="_blank">NetCrunch 1.0</a></li>
+        <li><a href="https://netcrunchext.github.io/netcrunchext/aws" target="_blank">AWS Troubles</a></li>
+        <li><a href="https://netcrunchext.github.io/netcrunchext/hp3045" target="_blank">HP3045 Troubleshooting</a></li>
+        <li><a href="https://netcrunchext.github.io/netcrunchext/drive" target="_blank">Amazon SATA Reader</a></li>
+        <li><a href="https://netcrunchext.github.io/netcrunchext/ment" target="_blank">Amazon Bose Speakers Clone</a></li>
+        <li><a href="https://netcrunchext.github.io/netcrunchext/smartoutlet" target="_blank">Chinese Smart Outlets</a></li>
+    </ul>
 <br><br>
   <p><i>Copyright NaturalDot 2019</i></p>
 </body>
